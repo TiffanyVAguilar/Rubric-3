@@ -1,0 +1,10 @@
+.header {
+  background-color: rgb(230, 144, 47);
+}
+.content {
+  min-height: 100px;
+}
+.footer {
+  background-color: rgb(230, 144, 47);
+  min-height: 37px;
+}
